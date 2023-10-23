@@ -1,0 +1,6 @@
+const POKEMON_QUERY_KEY = {
+  LIST: 'POKEMONS',
+  DETAIL: 'POKEMON',
+};
+
+export default POKEMON_QUERY_KEY;
